@@ -1,0 +1,8 @@
+{
+  "name": "SCC APP ",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "c4284add"
+}
